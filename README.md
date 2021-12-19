@@ -10,12 +10,12 @@ The following are the results for the retirment titles and mentorship elgibility
 ### Retiring Employees Per Title:
 1) 90,398 Employees are elgiable for retirement from the company
 2) The following image below shows the number of openings for each of the following job titles:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/DrZubi/Pewlett-Hackard-Analysis/blob/main/Images/openings.PNG)
 
 ### Mentorship Eligibility Program:
 1) 1,549 employees are elgiable for the mentorship program
 2) The following image below shwos the first 10 rows of the employees that are eligiable for the mentorship program
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/DrZubi/Pewlett-Hackard-Analysis/blob/main/Images/mentorship.PNG)
 
 ## Summary
 After the completion of queries for the number of employees retiring and the employees elgiable for mentorship, there were a total of 90,398 employees who are elgiable to retire. 
